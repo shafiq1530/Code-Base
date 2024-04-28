@@ -1,0 +1,65 @@
+D:\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.exe
+D:\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.deps.json
+D:\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.runtimeconfig.json
+D:\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.runtimeconfig.dev.json
+D:\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.dll
+D:\Learning\Data Struct\Data Struct\bin\Debug\net5.0\ref\Data Struct.dll
+D:\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.pdb
+D:\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.csprojAssemblyReference.cache
+D:\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.AssemblyInfoInputs.cache
+D:\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.AssemblyInfo.cs
+D:\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.csproj.CoreCompileInputs.cache
+D:\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.dll
+D:\Learning\Data Struct\Data Struct\obj\Debug\net5.0\ref\Data Struct.dll
+D:\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.pdb
+D:\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.genruntimeconfig.cache
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.exe
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.deps.json
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.runtimeconfig.json
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.runtimeconfig.dev.json
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Data Struct.pdb
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\MailKit.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\MimeKit.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.csproj.AssemblyReference.cache
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.AssemblyInfoInputs.cache
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.AssemblyInfo.cs
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.csproj.CoreCompileInputs.cache
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.csproj.CopyComplete
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\refint\Data Struct.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.pdb
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\Data Struct.genruntimeconfig.cache
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\obj\Debug\net5.0\ref\Data Struct.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Stripe.net.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Apache.NMS.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Apache.NMS.ActiveMQ.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\EPPlus.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\EPPlus.Interfaces.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Backup\D Drive\Learning\Data Struct\Data Struct\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
